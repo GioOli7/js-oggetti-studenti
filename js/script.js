@@ -1,4 +1,4 @@
-$('documen').ready(function() {
+$('document').ready(function() {
 
     // Esercizio 1
     /*
